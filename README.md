@@ -11,4 +11,4 @@ npm run build 构建
 npm run docz:dev 预览
 
 ## 提示
-还没有集成ts，单元测试
+还没有集成ts，更新日志，单元测试...
