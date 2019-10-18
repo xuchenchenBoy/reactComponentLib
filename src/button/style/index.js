@@ -1,0 +1,1 @@
+import './index.less'; // 用于创建css的rollup 入口

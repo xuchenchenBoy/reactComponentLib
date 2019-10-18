@@ -1,0 +1,39 @@
+{
+  "config": {
+    "title": "Leaf",
+    "description": "组件库",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "docz/button.mdx",
+      "value": {
+        "name": "Button",
+        "route": "/",
+        "id": "2df2bf4df085b0dcc01f2c86213ac5f8",
+        "filepath": "docz/button.mdx",
+        "fullpath": "E:\\assets\\leaf\\docz\\button.mdx",
+        "link": "",
+        "slug": "docz-button",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
